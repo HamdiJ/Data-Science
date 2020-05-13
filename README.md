@@ -1,6 +1,7 @@
 # Data-Science Projects
 
-I have completed the path of data analyst in Python/SQL : 22 Courses / 18 Projects / 400h 
+I have completed the path of data analyst in Python/SQL : 22 Courses / 18 Projects / 400h
+
 Dataquest Plateform provides guided projects to answer real-world questions on real datasets.
 
 - Python Programming 
