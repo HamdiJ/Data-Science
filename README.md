@@ -1,10 +1,10 @@
-# Data-Science
+# Data-Science Projects
 
 Dataquest Plateform provides guided projects to answer real-world questions on real datasets.
 
-I have completed the path of data analyst python/SQL : 22 Courses / 18 Projects / 400h 
+I have completed the path of data analyst in Python/SQL : 22 Courses / 18 Projects / 400h 
 
-- Python Programming
+- Python Programming 
 - SQL programming
 - Data Cleaning and visualization
 - Probability and Statistics
@@ -12,6 +12,6 @@ I have completed the path of data analyst python/SQL : 22 Courses / 18 Projects 
 - Git & version control
 - Web scrapping
 
-Now I am in practise mode with real world datasets to improve my data science skills
+Now I am in practice mode with real world datasets from Kaggle to improve my data science skills
 
 
